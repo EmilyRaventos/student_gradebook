@@ -1,31 +1,21 @@
 # Student Gradebook
-
-{Provide a description of the software that you wrote to demonstrate the Java language.}
-This program is a simple tool that can be used to keep track of a student's grades. This 
-
-{Describe your purpose for writing this software.}
+This program is a tool that helps keep track of student's grades. It displays a menu of options, including adding a student, updating the student's grade, and viewing the class average. 
+I wrote this to demonstrate the skills I've been developing in using the Java language. Some of the skills are using classes, variables, and functions.
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+Student Gradebook Demo Video (http://youtube.link.goes.here)
 
 # Development Environment
-
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+Tools used to write this program:
+- Visual Studio Code
+- Java language
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- w3schools (https://www.w3schools.com/java/default.asp)
+- BeginnersBook (https://beginnersbook.com/java-collections-tutorials/)
 
 # Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- I would like a cleaner display. Change the spacing and add color.
+- Give the option to view the list of students when you're updating grades.
+- Include options to add grades for specific assignment types. (quizzes, exams, etc.)
